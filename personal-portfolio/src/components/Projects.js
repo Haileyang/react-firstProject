@@ -80,7 +80,7 @@ export const Projects = () => {
                     </Col>
                 </Row>
             </Container>
-            <img src={colorSharp2} alt="colorSharp2" className="background-imgage-right" />
+            <img src={colorSharp2} alt="colorSharp2" className="background-image-right" />
         </section>
     )
 }
