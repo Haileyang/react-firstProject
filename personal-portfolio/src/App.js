@@ -5,6 +5,7 @@ import { MainVisual } from "./components/MainVisual";
 import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
+import { Newsletter } from "./components/Newsletter";
 import 'bootstrap/dist/css/bootstrap.css';
 
 
@@ -16,6 +17,7 @@ function App() {
       <Skills />
       <Projects />
       <Contact />
+      <Newsletter />
     </div>
   );
 }
